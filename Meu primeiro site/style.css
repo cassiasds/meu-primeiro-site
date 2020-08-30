@@ -1,0 +1,16 @@
+h1 
+{color: rgb(9, 74, 117);
+font-family: Verdana;
+background-color: rgba(9, 74, 117, 0.212);}
+h2{ font-family: Verdana; color: rgb(9, 74, 117)
+    ;}
+    h3 {font-family: Verdana; color: black; border-bottom: 4px solid rgba(9, 74, 117, 0.212); border-right;: 4px solid rgba(9, 74, 117, 0.212)}
+    h4 {font-family: Verdana; color: red;}
+
+a{text-decoration: none;
+color: black; font-family: Verdana;}
+p{font-family:Verdana;
+color: lightslategrey
+;}
+div { text-align: center;
+}
